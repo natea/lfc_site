@@ -1,3 +1,4 @@
+-e hg+https://natea@bitbucket.org/ubernostrum/django-contact-form#egg=django-contact-form
 django-lfc==1.0.3
 django-contact-form
 django-pagination==1.0.7
