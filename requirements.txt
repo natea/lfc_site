@@ -1,4 +1,4 @@
--e hg+https://natea@bitbucket.org/ubernostrum/django-contact-form#egg=django-contact-form
+-e hg+ssh://hg@bitbucket.org/ubernostrum/django-contact-form#egg=django-contact-form
 django-lfc==1.0.3
 django-pagination==1.0.7
 django-permissions>=1.0,<1.1
