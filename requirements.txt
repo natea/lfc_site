@@ -1,5 +1,7 @@
 -e hg+https://natea@bitbucket.org/ubernostrum/django-contact-form#egg=django-contact-form
-django-lfc==1.0.3
+-e git+git://github.com/natea/django-lfc.git#egg=django-lfc
+# this django-lfc has a broken setup.py because it can't find 'tagging', now renamed to django-tagging
+#django-lfc==1.0.3
 django-pagination==1.0.7
 django-permissions>=1.0,<1.1
 django-portlets>=1.0,<1.1
